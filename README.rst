@@ -2,4 +2,4 @@
 instoler
 ########
 
-Just another vim plugin manager.
+A vim custom configuration manager.
