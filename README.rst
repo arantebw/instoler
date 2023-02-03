@@ -2,4 +2,4 @@
 instoler
 ########
 
-A vim custom configuration manager.
+A vim custom-configuration manager.
